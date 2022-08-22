@@ -1,5 +1,4 @@
- 
-@media screen and (min-width: 480px) {
+ @media screen and (min-width: 480px) {
     body {
       margin: 0;
       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -21,7 +20,7 @@
   background-color: #be3144;
   text-align: right;
   right: 0;
-  left: 0;  
+  left: 0;
 }
 
 .top-bar a {
@@ -30,6 +29,7 @@
   font-weight: 600;
   text-decoration: none;
 }
+
 .top-bar ul {
   list-style: none;
   display: inline-block;
@@ -39,11 +39,10 @@
 .top-bar ul li {
   display: inline-block;
   padding: 20px;
-    
 }
 
 .top-bar ul li:hover {
-  background-color:aquamarine;  
+  background-color:aquamarine;
 }
 
 #welcome-section {
