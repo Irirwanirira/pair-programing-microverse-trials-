@@ -1,9 +1,9 @@
 @media screen and (min-width: 480px) {
   body {
     margin: 0;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
-  
+
   nav {
     position: fixed;
     width: 100%;
@@ -43,7 +43,7 @@
 }
 
 .top-bar ul li:hover {
-  background-color:aquamarine;
+  background-color: aquamarine;
 }
 
 #welcome-section {
@@ -95,7 +95,7 @@
 
 .project-list .grid {
   width: 30%;
-  background-color:#333;
+  background-color: #333;
   text-align: center;
   display: inline-block;
   margin: 0 15px 40px;
@@ -120,10 +120,10 @@
 
 .project-list .next {
   width: 30%;
-  background-color:#333;
+  background-color: #333;
   text-align: center;
   display: inline-block;
-  margin: 0 15px; 
+  margin: 0 15px;
 }
 
 .project-list .next a {
